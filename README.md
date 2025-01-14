@@ -25,7 +25,7 @@ Upon successful installation, users can log in using their authorized credential
 The Election Management Software prioritizes security and data integrity. It employs robust encryption methods to safeguard sensitive information and implements user authorization protocols to prevent unauthorized access.
 
 ## Support
-For any inquiries or support related to the Election Management Software, please contact our support team at [support@email.com](mailto:support@email.com) or call us at [phone number].
+For any inquiries or support related to the Election Management Software, please contact our support team.
 
 ## License
 This software is licensed under [MIT License](https://opensource.org/licenses/MIT). Please refer to the accompanying license file for more details.
